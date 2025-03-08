@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Done with creating feture1 branch by kranthi
+=======
+i am chaitanya
+>>>>>>> 32a7849d8b1ac58ae866e02b7ed67233e70bade0
 
 
 chaiatnya edited the feature1 bracnch
